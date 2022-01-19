@@ -14,4 +14,4 @@ To build this project you must install [NSIS](https://nsis.sourceforge.io/Downlo
 * [NsJSON](https://nsis.sourceforge.io/NsJSON_plug-in)
 * [XML](https://nsis.sourceforge.io/XML_plug-in)
 
-Download each one of them and extract them to your NSIS installation directory.
+Download each one of them and extract them to your NSIS installation directory. 
